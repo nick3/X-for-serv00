@@ -74,8 +74,7 @@ generate_config(){
               }],
               "udp": false,
               "ip": "127.0.0.1"
-            },
-            "streamSettings": ""
+            }
         },
         {
         "port": ${PORT3},  
