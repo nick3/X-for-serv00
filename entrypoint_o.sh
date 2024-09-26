@@ -244,7 +244,7 @@ generate_config() {
         },
         {
             "port":${PORT2},
-            "listen":"127.0.0.1",
+            "listen":"0.0.0.0",
             "protocol":"socks",
             "settings":{
               "auth": "password",
